@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is anjala and I'm a student, from India</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgybGNraWR6Y2kxMmh0dmpkMnpwNmliOTZ4emx0a2lybXVtMXhrNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/B7nQGprEx2dYx14vXa/giphy.gif"  />
 
 ###
 
@@ -43,7 +43,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
