@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **SakuraScript**
 
-- 💬 Ask me about ****senku ishigami****
+- 💬 Ask me about *****senku ishigami*****
 
 - 📫 How to reach me **anjalanalakath@gmail.com**
 
