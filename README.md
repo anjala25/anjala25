@@ -4,7 +4,7 @@
 <img align="center" height="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mm03czRsYTBlbDNtYm1wZ2VjY3BjZG1sMDdocHk4cDNvOXozZTJsbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ge9Ep3RJLGlNEn0UfC/giphy.gif" />
 </div>
   
-- 🌱 I’m currently learning **Code-fu 💻**
+- 🌱 I’m currently learning **everything**
 
 - 👯 I’m looking to collaborate on **SakuraScript**
 
